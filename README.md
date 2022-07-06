@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf!</h1>
 <h3 align="center">an ordinary software engineering student trying to be extraordinary from Turkey</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
 </div>
 <h3 align="center">_______________________________________________________________________________</h3>
 
