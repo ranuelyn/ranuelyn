@@ -5,25 +5,24 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
 </div>
 
-- 🔭 I’m currently working on **freelance graphic design jobs.**
-
-- 🌱 I’m currently learning **Flutter!**
-
-- 💬 Ask me about **java, python and dart.**
-
-- 📫 How to reach me **yusufasimarslan@gmail.com**
-
+<h3 align="center">🔭 I’m currently working on **freelance graphic design jobs.**</h1>
+<h3 align="center"> </h1>
+<h3 align="center">🌱 I’m currently learning **Flutter!**</h1>
+<h3 align="center"> </h1>
+<h3 align="center">💬 Ask me about **java, python and dart.**</h1>
+<h3 align="center"> </h1>
+<h3 align="center">📫 How to reach me **yusufasimarslan@gmail.com**</h1>
 
 <h3 align="center">_______________________________________________________________________________</h3>
 
 <h3 align="center">Languages:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Tools:</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ranuelyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranuelyn" height="30" width="40" /></a>
 <a href="https://instagram.com/ranuelyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranuelyn" height="30" width="40" /></a>
 </p>
