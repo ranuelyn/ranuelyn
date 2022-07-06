@@ -1,6 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ranuelyn&label=you%20are%20not%20the%20first&color=bf0808&style=flat-square" alt="ranuelyn" /> </p>
 <h1 align="center">Hi 👋, I'm Yusuf!</h1>
 <h3 align="center">an ordinary software engineering student trying to be extraordinary from Turkey</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>
 <h3 align="center">_______________________________________________________________________________</h3>
 
 - 🔭 I’m currently working on **freelance graphic design jobs.**
