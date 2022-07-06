@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ranuelyn&label=you%20are%20not%20the%20first&color=bf0808&style=flat-square" alt="ranuelyn" /> </p>
 <h1 align="center">Hi 👋, I'm Yusuf!</h1>
-<h3 align="center">an ordinary software engineering student trying to be extraordinary from Turkey</h3>
+<h3 align="center">an ordinary software engineering student trying to be extraordinary -from Turkey-</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
 </div>
@@ -28,6 +28,8 @@
 <a href="https://instagram.com/ranuelyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranuelyn" height="30" width="40" /></a>
 </p>
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400"/>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranuelyn&show_icons=true&locale=en" alt="ranuelyn" /></p>
