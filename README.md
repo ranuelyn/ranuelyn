@@ -4,8 +4,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
 </div>
-<h3 align="center">_______________________________________________________________________________</h3>
-
 - 🔭 I’m currently working on **freelance graphic design jobs.**
 
 - 🌱 I’m currently learning **Flutter!**
@@ -13,7 +11,6 @@
 - 💬 Ask me about **java, python and dart.**
 
 - 📫 How to reach me **yusufasimarslan@gmail.com**
-
 <h3 align="center">_______________________________________________________________________________</h3>
 
 <h3 align="left">Languages:</h3>
