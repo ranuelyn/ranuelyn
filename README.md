@@ -4,8 +4,6 @@
 <h3 align="center">an ordinary software engineering student trying to be extraordinary from Turkey</h3>
 <h3 align="center">_______________________________________________________________________________</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ranuelyn&label=you%20are%20not%20the%20first&color=bf0808&style=flat-square" alt="ranuelyn" /> </p>
-
 - 🔭 I’m currently working on **freelance graphic design jobs.**
 
 - 🌱 I’m currently learning **Flutter!**
@@ -13,6 +11,8 @@
 - 💬 Ask me about **java, python and dart.**
 
 - 📫 How to reach me **yusufasimarslan@gmail.com**
+
+<h3 align="center">_______________________________________________________________________________</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
