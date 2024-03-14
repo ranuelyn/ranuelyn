@@ -5,11 +5,6 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="350"/>
 </div>
 
-<h3 align="center">🔭 I’m currently working on freelance graphic design jobs.</h1>
-<h3 align="center"> </h1>
-<h3 align="center">🌱 I’m currently learning Flutter!</h1>
-<h3 align="center"> </h1>
-<h3 align="center">💬 Ask me about java, python and dart.</h1>
 <h3 align="center"> </h1>
 <h3 align="center">📫 How to reach me -> yusufasimarslan@gmail.com</h1>
 
