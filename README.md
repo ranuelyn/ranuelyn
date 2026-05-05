@@ -82,7 +82,7 @@
     <img alt="Yusuf's GitHub Contribution Snake" src="https://raw.githubusercontent.com/ranuelyn/ranuelyn/output/github-snake.svg">
   </picture>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranuelyn&theme=dark&hide_border=true" alt="Yusuf's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ranuelyn&theme=dark&hide_border=true" alt="Yusuf's GitHub Streak" />
 </div>
 
 <br>
